@@ -1,7 +1,7 @@
 # Sample-Code-Firefox-WebDriver
 Assignment 2 W7D4 - SDA - Software QA Bootcamp
 
-# Question:
+# Question
 Write a simple program in Java using selenium to evoke Firefox Browser.
 
 
