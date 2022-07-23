@@ -1,8 +1,11 @@
 # Sample-Code-Firefox-WebDriver
 Assignment 2 W7D4 - SDA - Software QA Bootcamp
-Question:
+
+# Question:
 Write a simple program in Java using selenium to evoke Firefox Browser.
 
+
+# Answer
 Before run the code , there are some steps need to take consider:
 
 First:
@@ -22,6 +25,12 @@ Donwload the necessary jar files.
 Fourth:
 Add them as a library in the classpath of the project
 - click-reight on the file project >Build path > configure Bild path > Java Build Path > Libraries > classpath > add external JARs > Apply and close.
+
+Code:
+
+<img src="https://user-images.githubusercontent.com/48597284/180618178-d349e89f-8d09-448f-8ab0-c5d14ccdc6c6.png" width=80% height=80%>
+
+
 
 Output:
 
